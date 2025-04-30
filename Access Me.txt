@@ -1,0 +1,22 @@
+##################################################################################
+Option 1 -
+##################################################################################
+Site URL -
+
+https://orgfarm-17c36a08a1.my.site.com/s/
+##################################################################################
+Option 2 - 
+Site Login URL: https://login.salesforce.com
+
+Username: epic.3f9d16782163@orgfarm.com
+
+Password: orgfarm1234
+##################################################################################
+
+
+############################
+Instructions for existing customer who is in for self assessment. Use the images with these names based on the vehicle.
+
+DAMAGED_VERNA.png
+DAMAGED_KIA.png
+DAMAGED_SKODA.png
